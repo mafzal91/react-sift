@@ -1,0 +1,27 @@
+{
+  "name": "react-sift",
+  "version": "0.0.1",
+  "description": "React Sift Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafzal91/react-sift.git"
+  },
+  "author": "Mohammad Afzal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafzal91/react-sift/issues"
+  },
+  "homepage": "https://github.com/mafzal91/react-sift#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.6"
+  }
+}
